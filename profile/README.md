@@ -15,6 +15,7 @@ This org is our digital lab: a place where coursework meets curiosity, theory me
 
 - [Dates academic year](https://moodle.msengineering.ch/mod/folder/view.php?id=7936)
 - [Timetables](https://moodle.msengineering.ch/mod/folder/view.php?id=7934)
+- [Venues](https://moodle.msengineering.ch/mod/folder/view.php?id=12249)
 
 ## Config and Commands
 
